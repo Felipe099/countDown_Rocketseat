@@ -1,6 +1,6 @@
 import Countdown from "./contar.js";
 
-const tempoParaNiver = new Countdown("09 February 2022 16:30:00 GMT-0300")
+const tempoParaNiver = new Countdown("07 May 2022 00:00:01 GMT-0300")
 const tempos = document.querySelectorAll("[data-time]")
 
 function mostrarTempo() {
